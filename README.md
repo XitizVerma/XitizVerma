@@ -12,9 +12,10 @@ I ❤ contributing to open source.
 <br/>
 
 ## My Most Used Languages
-
+<div>
 <img align = "left" alt = "Xitiz's Most Used Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma&langs_count=10"/>
 <br/>
+<div/>
 
 ## My Interests
 
