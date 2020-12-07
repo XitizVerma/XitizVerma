@@ -12,7 +12,7 @@ I ❤ contributing to open source.
 
 ## My Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma&langs_count=10")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma&langs_count=10&show_icons=true&theme=radical)
 <br/>
 
 
