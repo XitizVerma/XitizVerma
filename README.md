@@ -6,16 +6,15 @@ I ❤ contributing to open source.
 
 ## My Github Stats
 
-<div>
-<img align = "left" alt = "Xitiz's Github stats" src ="https://github-readme-stats.vercel.app/api?username=XitizVerma&count_private=true&show_icons=true&theme=radical"/>  
-<div/>
+![Xitiz's github stats](https://github-readme-stats.vercel.app/api?username=XitizVerma&count_private=true&show_icons=true&theme=radical) 
+
 <br/>
 
 ## My Most Used Languages
-<div>
-<img align = "left" alt = "Xitiz's Most Used Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma&langs_count=10"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma&langs_count=10")
 <br/>
-<div/>
+
 
 ## My Interests
 
@@ -26,9 +25,9 @@ Competitive Coding | Open Source Contributions | Web development | Cloud Computi
 ## Connect With Me
 
 [<img align="left" alt="XitizVerma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="XitizVerma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="XitizVerma | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][Gmail]
 [<img align="left" alt="XitizVerma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="XitizVerma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br/>
 
 ## Languages and Tools:
@@ -53,5 +52,5 @@ Competitive Coding | Open Source Contributions | Web development | Cloud Computi
 [twitter]: https://twitter.com/its_me_xitiz
 [instagram]: https://instagram.com/its_me_xitiz
 [linkedin]: https://linkedin.com/in/xitiz-verma-1b763b190
-
+[Gmail]: mailto:xitizverma@gmail.com
 
