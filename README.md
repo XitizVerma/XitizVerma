@@ -1,8 +1,8 @@
 # Hey there! I'm Xitiz 👋
 
 ## About me 🙋🏻‍♂️
-I am a 2nd year CSE undergraduate student at Dayananda Sagar College Of Technology, Bangalore!
-I am regular to Competitive Coding ,and have my area of intrest in Web Development and Cloud projects.
+I am a 2nd year CSE undergraduate student at Dayananda Sagar College Of Engineering, Bangalore!
+I am regular to Competitive Coding ,and have my area of interest in Web Development and Cloud projects.
 I ❤ contributing to Open Source.
 
 ## Languages and Tools
