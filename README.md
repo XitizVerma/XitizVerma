@@ -9,7 +9,8 @@ Javascript HTML CSS
  MERN Stack
 
 ## My Github Stats
-<img align = "left" alt = "Xitiz's Github stats" src ="https://gitub-readme-stats.vercel.app/api?username=XitizVerma&count_private=true&show_icons=true&hide_border=true&theme=radical">
+<img align = "left" alt = "Xitiz's Github stats" src ="https://github-readme-stats.vercel.app/api?username=XitizVerma>        
+                                 https://gitub-readme-stats.vercel.app/api?username=XitizVerma&count_private=true&show_icons=true&hide_border=true&theme=radical">
 
 ## My Most Used Languages
 <img align = "left" alt = "Xitiz's Most Used Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma">
