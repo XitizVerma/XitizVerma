@@ -4,21 +4,25 @@
 I am a CSE undergraduate student at Dayananda Sagar College Of Technology, Bangalore! I am regular to Competitive Coding I am interested  on web development projects.
 I ❤ contributing to open source.
 
-## Technical Skills
-Javascript HTML CSS
- MERN Stack
-
 ## My Github Stats
 <img align = "left" alt = "Xitiz's Github stats" src ="https://github-readme-stats.vercel.app/api?username=XitizVerma&count_private=true&show_icons=true&theme=radical"/>        
 <br/>
+
 ## My Most Used Languages
+
 <img align = "left" alt = "Xitiz's Most Used Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma&langs_count=10"/>
 <br/>
+
 ## My Interests
+
 Competitive Coding | Open Source Contributions | Web development | Cloud Computing
 <br/>
+
 ## Connect With Me
 
+[<img align="left" alt="XitizVerma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="XitizVerma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="XitizVerma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ### Languages and Tools:
 
@@ -28,10 +32,8 @@ Competitive Coding | Open Source Contributions | Web development | Cloud Computi
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/express/express.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -41,4 +43,9 @@ Competitive Coding | Open Source Contributions | Web development | Cloud Computi
 
 <br />
 <br />
+
+[twitter]: https://twitter.com/its_me_xitiz
+[instagram]: https://instagram.com/its_me_xitiz
+[linkedin]: https://linkedin.com/in/xitiz-verma-1b763b190
+
 
