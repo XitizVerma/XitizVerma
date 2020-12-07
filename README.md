@@ -12,7 +12,7 @@ Javascript HTML CSS
 <img align = "left" alt = "Xitiz's Github stats" src ="https://github-readme-stats.vercel.app/api?username=XitizVerma&count_private=true&show_icons=true&theme=radical">        
 <br/>
 ## My Most Used Languages
-<img align = "left" alt = "Xitiz's Most Used Languages" src = " https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma&langs_count=8 ">
+<img align = "left" alt = "Xitiz's Most Used Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma">
 <br/>
 ## My Interests
 Competitive Coding | Open Source Contributions | Web development | Cloud Computing
