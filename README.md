@@ -1,26 +1,21 @@
 # Hey there! I'm Xitiz 👋
 
 ## About me 🙋🏻‍♂️
-I am a CSE undergraduate student at Dayananda Sagar College Of Technology, Bangalore! I am regular to Competitive Coding I am interested  on web development projects.
-I ❤ contributing to open source.
+I am a CSE undergraduate student at Dayananda Sagar College Of Technology, Bangalore!
+I am regular to Competitive Coding ,and have my area of intrest in Web Development and Cloud projects.
+I ❤ contributing to Open Source.
 
 ## My Github Stats
 
 ![Xitiz's github stats](https://github-readme-stats.vercel.app/api?username=XitizVerma&count_private=true&show_icons=true&theme=radical) 
 
-<br/>
-
 ## My Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma&langs_count=10&show_icons=true&theme=radical)
-<br/>
-
 
 ## My Interests
 
 Competitive Coding | Open Source Contributions | Web development | Cloud Computing
-
-<br/>
 
 ## Connect With Me
 
