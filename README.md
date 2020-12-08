@@ -28,6 +28,12 @@ I ❤ contributing to Open Source.
 
 <br/>
 
+## My Interests
+
+Competitive Coding | Open Source Contributions | Web development | Cloud Computing
+
+<br/>
+
 ## My Github Stats
 
 ![Xitiz's github stats](https://github-readme-stats.vercel.app/api?username=XitizVerma&count_private=true&show_icons=true&theme=tokyonight) 
@@ -35,10 +41,6 @@ I ❤ contributing to Open Source.
 ## My Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma&langs_count=10&show_icons=true&theme=radical)
-
-## My Interests
-
-Competitive Coding | Open Source Contributions | Web development | Cloud Computing
 
 ## Connect With Me
 
