@@ -32,8 +32,6 @@ I ❤ contributing to Open Source.
 
 Competitive Coding | Open Source Contributions | Web development | Cloud Computing
 
-<br/>
-
 ## My Github Stats
 
 ![Xitiz's github stats](https://github-readme-stats.vercel.app/api?username=XitizVerma&count_private=true&show_icons=true&theme=tokyonight) 
