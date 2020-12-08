@@ -30,11 +30,11 @@ I ❤ contributing to Open Source.
 
 ## My Github Stats
 
-![Xitiz's github stats](https://github-readme-stats.vercel.app/api?username=XitizVerma&count_private=true&show_icons=true&theme=radical) 
+![Xitiz's github stats](https://github-readme-stats.vercel.app/api?username=XitizVerma&count_private=true&show_icons=true&theme=tokyonight) 
 
 ## My Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma&langs_count=10&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma&langs_count=10&show_icons=true&theme=tokyonight)
 
 ## My Interests
 
