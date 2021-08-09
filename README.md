@@ -1,6 +1,7 @@
 # Hey there! I'm Xitiz 👋
 
 <img src="https://github.com/XitizVerma/XitizVerma.github.io/blob/main/images/a.gif" alt="Developer"/>
+
 ## About me 🙋🏻‍♂️
 I am a 2nd year CSE undergraduate student at Dayananda Sagar College Of Engineering, Bangalore!
 I am regular to Competitive Coding ,and have my area of interest in Web Development and Cloud projects.
