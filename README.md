@@ -3,7 +3,7 @@
 <img src="https://github.com/XitizVerma/XitizVerma.github.io/blob/main/images/a.gif" alt="Developer"/>
 
 ## About me 🙋🏻‍♂️
-I am a 3rd year enthusiastCSE undergraduate student at Dayananda Sagar College Of Engineering, Bangalore!
+I am a 3rd year enthusiast CSE undergraduate student at Dayananda Sagar College Of Engineering, Bangalore!
 I ❤ Competitive Coding and Problem Solving ,and have my area of interest in Web Development and Cloud projects.
 
 ## Languages and Tools
