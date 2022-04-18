@@ -3,9 +3,8 @@
 <img src="https://github.com/XitizVerma/XitizVerma.github.io/blob/main/images/a.gif" alt="Developer"/>
 
 ## About me 🙋🏻‍♂️
-I am a 2nd year CSE undergraduate student at Dayananda Sagar College Of Engineering, Bangalore!
-I am regular to Competitive Coding ,and have my area of interest in Web Development and Cloud projects.
-I ❤ contributing to Open Source.
+I am a 3rd year enthusiastCSE undergraduate student at Dayananda Sagar College Of Engineering, Bangalore!
+I ❤ Competitive Coding and Problem Solving ,and have my area of interest in Web Development and Cloud projects.
 
 ## Languages and Tools
 
@@ -55,6 +54,6 @@ Competitive Coding | Open Source Contributions | Web development | Cloud Computi
 
 [twitter]: https://twitter.com/its_me_xitiz
 [instagram]: https://instagram.com/its_me_xitiz
-[linkedin]: https://linkedin.com/in/xitiz-verma-1b763b190
+[linkedin]: https://www.linkedin.com/in/xitizverma/
 [Gmail]: mailto:xitizverma@gmail.com
 
