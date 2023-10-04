@@ -47,7 +47,7 @@ Competitive Coding | Web development | Cloud Computing | Open Source Contributio
 
 ## Connect With Me
 
-<img align="left" alt="XitizVerma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+[<img align="left" alt="XitizVerma | LinkedIn" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.16.1/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="XitizVerma | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][Gmail]
 [<img align="left" alt="XitizVerma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="XitizVerma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
