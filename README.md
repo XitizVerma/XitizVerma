@@ -3,8 +3,15 @@
 <img src="https://github.com/XitizVerma/XitizVerma.github.io/blob/main/images/a.gif" alt="Developer"/>
 
 ## About me 🙋🏻‍♂️
-I am a 3rd year enthusiast CSE undergraduate student at Dayananda Sagar College Of Engineering, Bangalore!
-I ❤ Competitive Coding and Problem Solving ,and have my area of interest in Web Development and Cloud projects.
+
+I’m a enthusiastic Software Developer with a passion for coding and a knack for problem-solving. With a Bachelor’s degree in Computer Science and over a year's experience in the tech industry, I’ve refined my skills in a variety of programming languages and frameworks.
+
+I ❤ Competitive Coding and Problem Solving, and have my area of interest in Web Development and Cloud projects.
+I currently work at Increff, where I contribute to developing innovative software solutions that drive business growth and improve user experience. My key responsibilities include designing, coding, testing, and debugging software applications, as well as collaborating with cross-functional teams to ensure project success.
+
+In my previous roles, I’ve had the opportunity to work on several high-impact projects, skilling myself in C++, Java, Spring, Full-Stack Development with MERN Stack, delivering quality software on time and within budget. I’m a lifelong learner who’s always on the lookout for new challenges and opportunities to grow. In my spare time, I enjoy Competitive Coding and contributing to open-source projects and staying up-to-date with the latest industry trends.
+
+Feel free to connect with me if you’re interested in collaboration, or if you just want to chat about all things tech! Let’s innovate together. 🚀
 
 ## Languages and Tools
 
@@ -31,7 +38,7 @@ I ❤ Competitive Coding and Problem Solving ,and have my area of interest in We
 
 ## My Interests
 
-Competitive Coding | Open Source Contributions | Web development | Cloud Computing
+Competitive Coding | Web development | Cloud Computing | Open Source Contributions
 
 ## My Github Stats
 
@@ -54,6 +61,6 @@ Competitive Coding | Open Source Contributions | Web development | Cloud Computi
 
 [twitter]: https://twitter.com/its_me_xitiz
 [instagram]: https://instagram.com/its_me_xitiz
-[linkedin]: https://www.linkedin.com/in/xitizverma/
+[linkedin]: https://www.linkedin.com/in/xitizverma
 [Gmail]: mailto:xitizverma@gmail.com
 
