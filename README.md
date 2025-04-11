@@ -12,6 +12,8 @@ Feel free to connect with me if you’re interested in collaboration, or if you 
 
 ## Languages and Tools
 
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"  />
@@ -50,10 +52,7 @@ Feel free to connect with me if you’re interested in collaboration, or if you 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
 <img align="left" alt="Leetcode" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/leetcode/leetcode.png" style="background-color: black; clip-path: inset(0 40% 0 0);"/>
 
-
-
-<br/>
-<br/>
+<div/>
 
 
 ## My Interests
