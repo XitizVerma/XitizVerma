@@ -49,7 +49,7 @@ Feel free to connect with me if you’re interested in collaboration, or if you 
 <img align="left" alt="Spark" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/spark/spark.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"  style="background-color: white;"/>
 <img align="left" alt="Leetcode" height="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/leetcode/leetcode.png" style="background-color: black; clip-path: inset(0 40% 0 0);"/>
 
 <div/>
