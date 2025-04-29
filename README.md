@@ -68,7 +68,7 @@ Competitive Coding | Web development | Cloud Computing | Machine Learning
 
 ## My Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma&langs_count=7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma&langs_count=10&show_icons=true&theme=radical)
 
 ## Connect With Me
 
