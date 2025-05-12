@@ -39,7 +39,7 @@ Feel free to connect with me if you’re interested in collaboration, or if you 
 <img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" />
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
 <img align="left" alt="Dotnet" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" />
-<img align="left" alt="Aws" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go" />
+<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
 
 <img align="left" alt="Aws" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
 <img align="left" alt="GoogleCloud" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" />
