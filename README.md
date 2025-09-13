@@ -4,7 +4,7 @@
 
 ## About me 🙋🏻‍♂️
 
-I’m a enthusiastic Software Developer with a passion for coding and a knack for problem-solving. With a Bachelor’s degree in Computer Science and over years of  experience in the tech industry, I’ve refined my skills in a variety of programming languages and frameworks.
+I’m a enthusiastic Senior Software Engineer with a passion for coding and a knack for problem-solving. With a Bachelor’s degree in Computer Science and over years of  experience in the tech industry, I’ve refined my skills in a variety of programming languages and frameworks.
 
 I ❤ Competitive Coding and Problem Solving, and have my area of interest in Web Development and Cloud projects and passionate for developing innovative software solutions that drive business growth and improve user experience. My key responsibilities include designing, coding, testing, and debugging software applications, as well as collaborating with cross-functional teams to ensure project success. I’m a lifelong learner who’s always on the lookout for new challenges and opportunities to grow.
 
